@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **feralveswatts@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fernando-de-paula-85091716b/](https://www.linkedin.com/in/fernando-de-paula-85091716b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/fernando-alves-85091716b/](https://www.linkedin.com/in/fernando-alves-85091716b/)
 
 - ⚡ Fun fact **I love some science, math and adventures**
 
