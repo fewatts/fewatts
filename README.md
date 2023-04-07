@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Alves</h1>
 <h3 align="center">Back-end Developer</h3>
 
-- 🌱 I’m currently learning **Java, Spring, MySQL and NodeJS**
+- 🌱 I’m currently learning **Java, Spring, MySQL, NodeJS and react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fewatts](https://github.com/fewatts)
 
