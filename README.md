@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fernando-alves-85091716b/](https://www.linkedin.com/in/fernando-alves-85091716b/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
