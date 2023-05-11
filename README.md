@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Fernando Alves</h1>
 <h3 align="center">FullStack developer Jr</h3>
 
-- 🌱 I’m currently learning **Java, MySQL, PostgreSQL, Spring boot {Java} and React.js**
+- 🌱 I’m currently developing systems in **Java, MySQL, PostgreSQL, Spring boot {Java} and React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fewatts](https://github.com/fewatts)
 
