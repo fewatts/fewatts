@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Fernando Alves</h1>
 <h3 align="center">FullStack developer Jr</h3>
 
-- 🌱 I’m currently developing systems in **Java, MySQL, PostgreSQL, Spring boot {Java} and React.js**
+- 🌱 I’m currently developing systems in **Java, MySQL, mongoDB, PostgreSQL, Spring boot {Java}, React.js and CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fewatts](https://github.com/fewatts)
+- 👨‍💻 All of my projects are available at [repository](https://github.com/fewatts)
 
 - 📫 How to reach me **feralveswatts@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fernando-alves-85091716b/](https://www.linkedin.com/in/fernando-alves-85091716b/)
+- 📄 Know about my experiences [at linkedin](https://www.linkedin.com/in/fernando-alves-de-paula-85091716b)
 
 
 <p align="left">
