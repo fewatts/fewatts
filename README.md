@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fernando Alves</h1>
-<h3 align="center">FullStack developer Jr</h3>
+<h3 align="center">Backend developer Jr</h3>
 
 - 🌱 I’m currently developing systems with **Java, MySQL, mongoDB, PostgreSQL, Spring boot {Java}, React.js and CSS**
 
